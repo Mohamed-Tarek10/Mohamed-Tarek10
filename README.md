@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 <!-- 3D Banner -->
 <!-- NEON AI HEADER -->
-</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Mohamed%20Tarek&fontColor=00f7ff&fontSize=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:000000,50:00f7ff,100:8a2be2&text=AI%20%7C%20ML%20ENGINEER&fontColor=00f7ff&fontSize=55&animation=fadeIn&fontAlignY=40" />
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/0000000/gradient-line.gif" width="100%"/>
