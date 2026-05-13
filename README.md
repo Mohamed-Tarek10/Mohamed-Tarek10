@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=Mohamed-Tarek10&theme=tokyonight&show_icons=true)
+<h1 align="center">Hi 👋, I'm Mohamed Tarek</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Student;Computer+Vision+Enthusiast;Future+AI+Engineer;Building+AI+Agents+%26+RAG+Systems&center=true&width=500&height=50">
+</p>
