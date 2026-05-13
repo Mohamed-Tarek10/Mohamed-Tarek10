@@ -33,8 +33,14 @@ Here are some ideas to get you started:
 📚 Retrieval-Augmented Generation (RAG)
 🧠 Deep Learning with PyTorch
 🤖 Robotics & Intelligent Systems
-🌍 Open-source AI Models
+🌍 AI Open-source Models
+
 💻 Tech Stack
+<h2>💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,mysql,html,css,kotlin,c,git,github,vscode&theme=dark" />
+</p>
 🐍 Programming Languages
 📊 Data Science & AI
 
