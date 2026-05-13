@@ -39,23 +39,6 @@ Here are some ideas to get you started:
 <h2>💻 Tech Stack</h2>
 
 ## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,sklearn,mysql,html,css,kotlin,c,git,github,vscode" />
-</p></p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge"/>
-</p>
 🐍 Programming Languages
 📊 Data Science & AI
 👁️ Computer Vision & Image Processing
@@ -71,16 +54,28 @@ Geometric operations
 Edge detection
 Color processing
 Computer vision fundamentals
-🛠️ Technologies
 
-Python OpenCV Pillow NumPy Matplotlib
+🛠️ Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,sklearn,html,css,kotlin,c,git,github,vscode" />
+</p></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge"/>
+</p>
 
 🤖 Machine Learning & Deep Learning Projects
 
 Projects exploring AI models, neural networks, and practical ML/DL applications.
-
-🛠️ Technologies
-PyTorch Scikit-Learn Python
 
 🌱 Currently Learning
 AI Agents
@@ -89,8 +84,14 @@ Advanced Computer Vision
 Robotics
 LLM Applications
 AI System Design
-🎯 Goals
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Tarek10&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Tarek10&theme=tokyonight&hide_border=true"/>
+</p>
+🎯 Goals
 ✅ Build impactful AI systems
 ✅ Contribute to innovative AI projects
 ✅ Become an advanced AI Engineer specialized in intelligent systems
