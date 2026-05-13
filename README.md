@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 -->
 <!-- 3D Banner -->
 <!-- NEON AI HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:000000,50:00f7ff,100:8a2be2&text=AI%20%26%20ML%20ENGINEER&fontColor=00f7ff&fontSize=55&animation=fadeIn&fontAlignY=40" />
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Vision+%7C+NLP+%7C+AI+Agents;RAG+Systems+Developer;Building+Intelligent+AI+Applications;Innovate+Your+World+🚀" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Mohamed%20Tarek&fontColor=00f7ff&fontSize=60&animation=fadeIn" />
