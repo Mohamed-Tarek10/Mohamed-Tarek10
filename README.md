@@ -104,8 +104,10 @@ AI System Design
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Tarek10&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mohamed-Tarek10&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-.github/workflows/
-snake.yml
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Tarek10&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
+[![Mohamed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Tarek10&theme=tokyo-night)](https://github.com/Mohamed-Tarek10)
 
 LinkedIn: https://linkedin.com/in/your-link
 GitHub: https://github.com/your-username
