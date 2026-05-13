@@ -1,7 +1,5 @@
 ## Hi there 👋
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Mohamed%20Tarek&fontColor=00f7ff&fontSize=60&animation=fadeIn&fontAlignY=40" />
-</p>
+
 <!--
 **Mohamed-Tarek10/Mohamed-Tarek10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Mohamed%20Tarek&fontColor=00f7ff&fontSize=60&animation=fadeIn&fontAlignY=40" />
+</p>
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohamed%20Tarek&fontSize=50&fontColor=ffffff&animation=fadeIn)</p>
 <h1 align="center">Hi 👋, I'm Mohamed Tarek</h1>
 
