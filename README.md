@@ -54,10 +54,10 @@ Geometric operations
 Edge detection
 Color processing
 Computer vision fundamentals
-## 🐍 Contribution Snake
+<h2>🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohamed-Tarek10/Mohamed-Tarek10/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Mohamed-Tarek10/Mohamed-Tarek10/output/snake-dark.svg" />
 </p>
 🛠️ Technologies
 <p align="center">
