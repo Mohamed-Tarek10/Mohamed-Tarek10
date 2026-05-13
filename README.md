@@ -43,6 +43,11 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,sklearn,mysql,html,css,kotlin,c,git,github,vscode" />
 </p></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge"/>
+</p>
 🐍 Programming Languages
 📊 Data Science & AI
 👁️ Computer Vision & Image Processing
