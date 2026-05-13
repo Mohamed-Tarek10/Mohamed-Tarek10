@@ -64,11 +64,7 @@ Geometric operations
 Edge detection
 Color processing
 Computer vision fundamentals
-<h2>🐍 Contribution Snake</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mohamed-Tarek10/Mohamed-Tarek10/output/snake-dark.svg" />
-</p>
 🛠️ Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,sklearn,html,css,kotlin,c,git,github,vscode" />
@@ -99,9 +95,6 @@ Robotics
 LLM Applications
 AI System Design
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Tarek10&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 <h2>📈 Activity Graph</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Tarek10&theme=tokyo-night" />
