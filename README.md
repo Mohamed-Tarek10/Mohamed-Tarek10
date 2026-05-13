@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Mohamed%20Tarek&fontColor=00f7ff&fontSize=60&animation=fadeIn&fontAlignY=40" />
+</p>
 <!--
 **Mohamed-Tarek10/Mohamed-Tarek10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -111,8 +113,8 @@ AI System Design
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Tarek10&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
-LinkedIn: https://linkedin.com/in/your-link
-GitHub: https://github.com/your-username
+LinkedIn: (https://www.linkedin.com/in/1mohamed-tarek/)
+GitHub: https://github.com/Mohamed-Tarek10
 Email: eng.mohamed@computer.org
 
 <div align="center">
