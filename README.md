@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R6eTFhYW1mYW5zZ3E4N3B2bnRzOHd4Nnh4c3Q2OHl3d3F5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="700"/>
+</p>
 <h1 align="center">Hi 👋, I'm Mohamed Tarek</h1>
 
 <p align="center">
