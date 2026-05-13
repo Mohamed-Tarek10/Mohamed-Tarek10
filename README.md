@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 3D Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=gradient&text=Mohamed%20Tarek%20%7C%20AI%20%26%20ML%20Engineer&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Mohamed%20Tarek&fontColor=00f7ff&fontSize=60&animation=fadeIn" />
 </p>
+
+<!-- Typing animation under it -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Computer+Vision+%7C+NLP+%7C+AI+Agents;Building+RAG+Systems;Innovate+Your+World+🚀" />
+</p>>
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohamed%20Tarek&fontSize=50&fontColor=ffffff&animation=fadeIn)</p>
 <h1 align="center">Hi 👋, I'm Mohamed Tarek</h1>
 
