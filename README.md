@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Computer+Vision+%7C+NLP+%7C+AI+Agents;Building+RAG+Systems;Innovate+Your+World+🚀" />
 </p>
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohamed%20Tarek&fontSize=50&fontColor=ffffff&animation=fadeIn)</p>
 <h1 align="center">Hi 👋, I'm Mohamed Tarek</h1>
 
 <p align="center">
