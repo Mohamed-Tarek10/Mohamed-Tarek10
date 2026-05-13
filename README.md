@@ -19,3 +19,93 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Student;Computer+Vision+Enthusiast;Future+AI+Engineer;Building+AI+Agents+%26+RAG+Systems&center=true&width=500&height=50">
 </p>
+🧠 About Me
+
+🎓 AI & Machine Learning Student passionate about building intelligent systems
+👁️ Interested in Computer Vision, Image Processing, NLP, AI Agents, and RAG Systems
+🤖 Exploring the future of AI through practical projects and continuous learning
+🔥 Hardworking developer focused on innovation and real-world impact
+
+🚀 Current Focus
+🖼️ Image Processing & Computer Vision
+🤖 AI Agents & Autonomous Systems
+📚 Retrieval-Augmented Generation (RAG)
+🧠 Deep Learning with PyTorch
+🤖 Robotics & Intelligent Systems
+🌍 Open-source AI Models
+💻 Tech Stack
+🐍 Programming Languages
+📊 Data Science & AI
+
+
+
+
+
+
+
+
+👁️ Computer Vision & Image Processing
+
+
+
+
+📈 Data Visualization & BI
+
+
+🌐 Web & AI Frameworks
+
+
+
+
+
+
+📌 Featured Projects
+🖼️ Image Processing Repository
+
+Python notebooks focused on learning and practicing image processing concepts using OpenCV and Pillow.
+
+🔹 Topics Covered
+Image transformations
+Filtering & enhancement
+Geometric operations
+Edge detection
+Color processing
+Computer vision fundamentals
+🛠️ Technologies
+
+Python OpenCV Pillow NumPy Matplotlib
+
+🤖 Machine Learning & Deep Learning Projects
+
+Projects exploring AI models, neural networks, and practical ML/DL applications.
+
+🛠️ Technologies
+PyTorch Scikit-Learn Python
+
+🌱 Currently Learning
+AI Agents
+RAG Pipelines
+Advanced Computer Vision
+Robotics
+LLM Applications
+AI System Design
+🎯 Goals
+
+✅ Build impactful AI systems
+✅ Contribute to innovative AI projects
+✅ Become an advanced AI Engineer specialized in intelligent systems
+✅ Keep learning and teaching technology
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Tarek10&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mohamed-Tarek10&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+.github/workflows/
+snake.yml
+
+LinkedIn: https://linkedin.com/in/your-link
+GitHub: https://github.com/your-username
+Email: your-email@example.com
+
+<div align="center">
+✨ "Innovate Your World" ✨
+</div>
