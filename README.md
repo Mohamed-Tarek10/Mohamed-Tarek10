@@ -113,7 +113,21 @@ AI System Design
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Tarek10&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
+<h2 align="center">📬 Connect With Me</h2>
 
+<p align="center">
+  <a href="https://github.com/Mohamed-Tarek10">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40"/>
+  </a>
+
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+  </a>
+</p>
 LinkedIn: (https://www.linkedin.com/in/1mohamed-tarek/)
 GitHub: https://github.com/Mohamed-Tarek10
 Email: eng.mohamed@computer.org
