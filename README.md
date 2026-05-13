@@ -92,7 +92,9 @@ AI System Design
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Tarek10&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
+<h2>📈 Activity Graph</h2>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Tarek10&theme=tokyo-night" />
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Tarek10&theme=tokyonight&hide_border=true"/>
 </p>
@@ -104,18 +106,14 @@ AI System Design
 ✅ Contribute to innovative AI projects
 ✅ Become an advanced AI Engineer specialized in intelligent systems
 ✅ Keep learning and teaching technology
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Tarek10&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mohamed-Tarek10&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Tarek10&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
-[![Mohamed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Tarek10&theme=tokyo-night)](https://github.com/Mohamed-Tarek10)
 
 LinkedIn: https://linkedin.com/in/your-link
 GitHub: https://github.com/your-username
-Email: your-email@example.com
+Email: eng.mohamed@computer.org
 
 <div align="center">
 ✨ "Innovate Your World" ✨
