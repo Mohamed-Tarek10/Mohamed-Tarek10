@@ -130,18 +130,6 @@ AI System Design
 </p>
 <p align="center">
 
-<a href="https://github.com/Mohamed-Tarek10">
-  <img src="https://img.shields.io/badge/Explore%20My%20GitHub-00f7ff?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINK">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge"/>
-</a>
-
-</p>
-LinkedIn: (https://www.linkedin.com/in/1mohamed-tarek/)
-GitHub: https://github.com/Mohamed-Tarek10
-Email: eng.mohamed@computer.org
 
 <div align="center">
 ✨ "Innovate Your World" ✨
