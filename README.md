@@ -88,15 +88,16 @@ Advanced Computer Vision
 Robotics
 LLM Applications
 AI System Design
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Tarek10&theme=tokyonight&row=1&column=7"/>
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Tarek10&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Tarek10&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Tarek10&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 🎯 Goals
 ✅ Build impactful AI systems
