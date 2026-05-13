@@ -41,37 +41,15 @@ Here are some ideas to get you started:
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplolib,seaborn,powerbi,tableau,excel,langchain,pytorch,opencv,tensorflow,sklearn,mysql,html,css,kotlin,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,sklearn,mysql,html,css,kotlin,c,git,github,vscode" />
 </p></p>
 🐍 Programming Languages
 📊 Data Science & AI
-
-
-
-
-
-
-
-
 👁️ Computer Vision & Image Processing
-
-
-
-
 📈 Data Visualization & BI
-
-
 🌐 Web & AI Frameworks
-
-
-
-
-
-
 📌 Featured Projects
 🖼️ Image Processing Repository
-
-Python notebooks focused on learning and practicing image processing concepts using OpenCV and Pillow.
 
 🔹 Topics Covered
 Image transformations
