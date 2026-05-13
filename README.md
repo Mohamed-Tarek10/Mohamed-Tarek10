@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,sklearn,mysql,html,css,kotlin,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplolib,seaborn,powerbi,tableau,excel,langchain,pytorch,opencv,tensorflow,sklearn,mysql,html,css,kotlin,c,git,github,vscode" />
 </p></p>
 🐍 Programming Languages
 📊 Data Science & AI
