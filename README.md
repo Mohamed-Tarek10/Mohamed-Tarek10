@@ -38,9 +38,11 @@ Here are some ideas to get you started:
 💻 Tech Stack
 <h2>💻 Tech Stack</h2>
 
+## 🚀 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,mysql,html,css,kotlin,c,git,github,vscode&theme=dark" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,sklearn,mysql,html,css,kotlin,c,git,github,vscode" />
+</p></p>
 🐍 Programming Languages
 📊 Data Science & AI
 
