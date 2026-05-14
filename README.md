@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 🤖 Robotics & Intelligent Systems
 🌍 AI Open-source Models
 
-💻 Tech Stack
-<h2>💻 Tech Stack</h2>
 
 ## 🚀 Tech Stack
 🐍 Programming Languages
